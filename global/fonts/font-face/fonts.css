@@ -1,0 +1,87 @@
+﻿@font-face {
+    font-family: 'SimpleSans';
+    src: url('simplesans-regular-webfont.eot');
+    src: url('simplesans-regular-webfont.eot?#iefix') format('embedded-opentype'), url('simplesans-regular-webfont.woff') format('woff'), url('simplesans-regular-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SimpleSansOblique';
+    src: url('simplesans-regularoblique-webfont.eot');
+    src: url('simplesans-regularoblique-webfont.eot?#iefix') format('embedded-opentype'), url('simplesans-regularoblique-webfont.woff') format('woff'), url('simplesans-regularoblique-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'SimpleSansBold';
+    src: url('simplesans-bold-webfont.eot');
+    src: url('simplesans-bold-webfont.eot?#iefix') format('embedded-opentype'), url('simplesans-bold-webfont.woff') format('woff'), url('simplesans-bold-webfont.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SimpleSansBoldOblique';
+    src: url('simplesans-boldoblique-webfont.eot');
+    src: url('simplesans-boldoblique-webfont.eot?#iefix') format('embedded-opentype'), url('simplesans-boldoblique-webfont.woff') format('woff'), url('simplesans-boldoblique-webfont.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'SimpleSansMedium';
+    src: url('simplesans-medium-webfont.eot');
+    src: url('simplesans-medium-webfont.eot?#iefix') format('embedded-opentype'), url('simplesans-medium-webfont.woff') format('woff'), url('simplesans-medium-webfont.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SimpleSansMediumOblique';
+    src: url('simplesans-mediumoblique-webfont.eot');
+    src: url('simplesans-mediumoblique-webfont.eot?#iefix') format('embedded-opentype'), url('simplesans-mediumoblique-webfont.woff') format('woff'), url('simplesans-mediumoblique-webfont.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'SimpleSansLight';
+    src: url('simplesans-light-webfont.eot');
+    src: url('simplesans-light-webfont.eot?#iefix') format('embedded-opentype'), url('simplesans-light-webfont.woff') format('woff'), url('simplesans-light-webfont.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SimpleSansLightOblique';
+    src: url('simplesans-lightoblique-webfont.eot');
+    src: url('simplesans-lightoblique-webfont.eot?#iefix') format('embedded-opentype'), url('simplesans-lightoblique-webfont.woff') format('woff'), url('simplesans-lightoblique-webfont.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'SimpleSansBlack';
+    src: url('simplesans-black-webfont.eot');
+    src: url('simplesans-black-webfont.eot?#iefix') format('embedded-opentype'), url('simplesans-black-webfont.woff') format('woff'), url('simplesans-black-webfont.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FD-Icons';
+    src: url('FD-Icons.eot');
+    src: url('FD-Icons.eot') format('embedded-opentype'), url('FD-Icons.woff') format('woff'), url('FD-Icons.ttf') format('truetype'), url('FD-Icons.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FD-Icons';
+    src: url('FD-Icons.eot?ewqe8f');
+    src: url('FD-Icons.eot?#iefixewqe8f') format('embedded-opentype'), url('FD-Icons.ttf?ewqe8f') format('truetype'), url('FD-Icons.woff?ewqe8f') format('woff'), url('FD-Icons.svg?ewqe8f#FD-Icons') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
