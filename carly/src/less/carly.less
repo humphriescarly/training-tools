@@ -5,3 +5,22 @@ html { font-family: @reg; font-size: 16px; }
 .style-me { color: @error; }
 
 #aside { background: @navyblue; }
+#hero { background: url('../../dist/img/queen.jpg') no-repeat; background-position: center; background-size: cover; position: relative; }
+
+#hero:before { position: absolute; content: ''; top: 0; right: 0; bottom: 0; left: 0; background: rgba(0,0,0,.3); }
+
+#heroText { height: 400px; display: flex; justify-content: center; align-items: center; flex-direction: column; }
+#heroText h1 { color: @white; font-family: @light; font-size: 56px; }
+#heroText h2 { color: @white; }
+
+#orderEg { display: flex; justify-content: space-between; }
+.box { background: red; height: 400px; display: flex; width: 300px; order: 2; }
+.box:nth-child(2) { background: blue; order: 1; }
+.box:nth-child(3) { background: coral; order: 3; }
+
+@media(max-width:767px) {
+    #orderEg { justify-content: center; }
+    .box { background: red; height: 400px; display: flex; width: 300px; order: 2; }
+    .box:nth-child(2) { background: blue; order: 3; }
+    .box:nth-child(3) { background: coral; order: 1; }
+}
